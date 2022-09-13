@@ -1,0 +1,11 @@
+use font.google for font style 
+
+add font to list 
+copy font link css and paste in css
+use font family in google and passte in css
+
+
+fontawesome for icon 
+
+get started - copy link
+icon - copy the class code of icon

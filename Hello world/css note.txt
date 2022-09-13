@@ -1,0 +1,7 @@
+1. inline
+2. internal
+3. external
+
+selector{property:value;}
+
+who {what:how}
